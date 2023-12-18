@@ -1,4 +1,4 @@
-# Testing the Validity of the Environmental Kuznets Curve Hypothesis: Panel Data and Instrumental Variable Approach
+# Gender Representation in Academia: Evidence from the Italian Education System Reform
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/[YourGitHubUsername]/[YourRepoName])
 ![Language count](https://img.shields.io/github/languages/count/[YourGitHubUsername]/[YourRepoName])
@@ -11,8 +11,8 @@ This project investigates the "glass ceiling" effect in Italy's education system
 
 ## Table of Contents
 - [Literature Review](#literature-review)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Model Selection](#model-specification-and-economic-interpretation)
+- [Data Description)](#exploratory-data-analysis-eda)
+- [How to Run the Project](#model-specification-and-economic-interpretation)
 ---
 
 ## Literature Review
