@@ -11,7 +11,7 @@ This project investigates the "glass ceiling" effect in Italy's education system
 
 ## Table of Contents
 - [Literature Review](#literature-review)
-- [Data Description)](#exploratory-data-analysis-eda)
+- [Data Description](#exploratory-data-analysis-eda)
 - [How to Run the Project](#model-specification-and-economic-interpretation)
 ---
 
