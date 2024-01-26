@@ -33,4 +33,4 @@ To systematize the varied CV data into a machine-readable format, Python was emp
 ---
 ## How to Run the Project
 
-The code is to be added soon! 
+The first step of this project was data collection. Since I am dealing with text data from CVs, the first step was to extract text from the PDFs. PyPDF2 or PDFMiner can be used for this purpose, but for more complex layouts, consider using OCR tools like Tesseract. The second step is to break the text into sentences or words. Use Name Entity Recognition to identify names, organizations, titles, dates, research publications, etc. Train or use pre-trained models to recognize specific sections like education, experience, skills, etc. Train a model to identify and categorize different parts of a CV. This requires a labeled dataset of CVs. For certain standard information like email, phone numbers, or dates, regular expressions were effective. Convert the extracted information into a structured format like JSON or a DataFrame. Save the structured data in a database or export it to CSV. See code file. 
