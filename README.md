@@ -1,9 +1,5 @@
 # Gender Representation in Academia: Evidence from the Italian Education System Reform
 
-![GitHub last commit](https://img.shields.io/github/last-commit/[YourGitHubUsername]/[YourRepoName])
-![Language count](https://img.shields.io/github/languages/count/[YourGitHubUsername]/[YourRepoName])
-![Top language](https://img.shields.io/github/languages/top/[YourGitHubUsername]/[YourRepoName])
-
 ## Description
 This project investigates the "glass ceiling" effect in Italy's education system, focusing on the career advancement of researchers in academia. It analyzes the 2010 Italian national promotion qualification data, using web scraping to collect demographic and research productivity data from CVs and bibliometric sources like Scopus. The study assesses if gender influences the likelihood of qualifying for higher academic positions, controlling for factors like research output, personal attributes, and university location. Initial findings indicate no significant gender impact on qualification chances. Robustness checks with alternative productivity metrics and probit regression models reinforce these findings. Notably, the study highlights the lower representation of women in the applicant pool, emphasizing the need for diversity-sensitive scientific productivity metrics to better understand the barriers in academic career progression.
 
